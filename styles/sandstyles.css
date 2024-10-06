@@ -1,0 +1,25 @@
+canvas {
+    background: black;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+body {
+    font-family: "ZZTalk-SemiBold", sans-serif;
+    font-size: 4vh;
+    margin: 0;
+    padding: 0;
+    background-color: #F5F7DC;
+    color: #BEB0A7;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 20vh;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding: 0;
+}
